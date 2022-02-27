@@ -1,0 +1,15 @@
+venv/
+temp/
+.rpa/
+.idea/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+.vscode
+.DS_Store
+*.pyc
+*.zip
+playwright-log.txt
+.virtual_documents/
+*/.virtual_documents/*
+testrun/*
+output/*
